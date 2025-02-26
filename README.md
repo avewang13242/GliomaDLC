@@ -1,5 +1,5 @@
 # Glioma-DLC
-Glioma Deep Learning Classification for ISBI2025 Glioma Challenge: 
+Glioma Deep Learning Classification for ISBI2025 Glioma Challenge: https://www.kaggle.com/competitions/glioma-mcd-2025
 
 Our highest Submission Score in Validation Phase: 0.969
 
